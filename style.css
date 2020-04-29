@@ -1,0 +1,42 @@
+body {
+  font-family: Open-Sans, sans-serif;
+}
+
+main {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.text {
+  width: 100%;
+  box-sizing: border-box;
+  height: 30px;
+  margin: 0 0 10px;
+  
+}
+
+.subscribe {
+  width: 100%;
+  box-sizing: border-box;
+  background: #3cb878;
+  border: none;
+  color: white;
+  height: 30px;
+  margin: 0 0 10px;
+}
+
+
+
+:hover {
+  color: purple;
+}
+
+.newsletter-form {
+  border: 1px solid #666666;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.newsletter-form h2 {
+  margin-top: 0px;
+}
